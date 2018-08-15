@@ -20,5 +20,14 @@ public class MobileContrller {
 		return this.mobileService.query(number);
 		
 	}
+	
+	/**
+	 * 在demo1分支新增方法
+	 * @param number
+	 * @return
+	 */
+	public Mobile find(Integer number){
+		return null;
+	}
 
 }
