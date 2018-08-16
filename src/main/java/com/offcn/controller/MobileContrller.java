@@ -22,7 +22,7 @@ public class MobileContrller {
 	}	
 	
 	
-	
+	 
 	/**
 	 * demo1新增方法check
 	 * @param number
